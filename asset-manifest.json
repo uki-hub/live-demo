@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.3268e46f.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.6a1e1aa6.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.6a1e1aa6.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.b45f0eea.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.b45f0eea.js.map",
-    "static/js/2.56f68516.chunk.js": "/react-gh-pages/static/js/2.56f68516.chunk.js",
-    "static/js/2.56f68516.chunk.js.map": "/react-gh-pages/static/js/2.56f68516.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.acb5cad2bcaf26481d0817b033adc703.js": "/react-gh-pages/precache-manifest.acb5cad2bcaf26481d0817b033adc703.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.3268e46f.chunk.css.map": "/react-gh-pages/static/css/main.3268e46f.chunk.css.map",
-    "static/js/2.56f68516.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.56f68516.chunk.js.LICENSE.txt",
-    "static/media/burger.png": "/react-gh-pages/static/media/burger.b8503d26.png"
+    "main.css": "/live-demo/static/css/main.3268e46f.chunk.css",
+    "main.js": "/live-demo/static/js/main.c4af3998.chunk.js",
+    "main.js.map": "/live-demo/static/js/main.c4af3998.chunk.js.map",
+    "runtime-main.js": "/live-demo/static/js/runtime-main.8eb393ba.js",
+    "runtime-main.js.map": "/live-demo/static/js/runtime-main.8eb393ba.js.map",
+    "static/js/2.56f68516.chunk.js": "/live-demo/static/js/2.56f68516.chunk.js",
+    "static/js/2.56f68516.chunk.js.map": "/live-demo/static/js/2.56f68516.chunk.js.map",
+    "index.html": "/live-demo/index.html",
+    "precache-manifest.aabff5d88ca91bc127a2e370d7c66d4f.js": "/live-demo/precache-manifest.aabff5d88ca91bc127a2e370d7c66d4f.js",
+    "service-worker.js": "/live-demo/service-worker.js",
+    "static/css/main.3268e46f.chunk.css.map": "/live-demo/static/css/main.3268e46f.chunk.css.map",
+    "static/js/2.56f68516.chunk.js.LICENSE.txt": "/live-demo/static/js/2.56f68516.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/live-demo/static/media/burger.b8503d26.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b45f0eea.js",
+    "static/js/runtime-main.8eb393ba.js",
     "static/js/2.56f68516.chunk.js",
     "static/css/main.3268e46f.chunk.css",
-    "static/js/main.6a1e1aa6.chunk.js"
+    "static/js/main.c4af3998.chunk.js"
   ]
 }
